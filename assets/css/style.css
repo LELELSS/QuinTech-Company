@@ -421,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 110px);
-  background-size: cover;"
+  background-size: cover;
   background: url('../img/BGIMAGE1.png') top center;
   position: relative;
    -webkit-box-sizing: border-box;
@@ -431,7 +431,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.5);
   position: absolute;
   bottom: 0;
   top: 0;
